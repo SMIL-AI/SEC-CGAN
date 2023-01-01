@@ -3,8 +3,8 @@
 Tested on PyTorch 1.13.1.  
 
 ``` shell
-- conda install pytorch torchvision torchaudio pytorch-cuda=11.6 -c pytorch -c nvidia
-- pip install -r requirements.txt
+conda install pytorch torchvision torchaudio pytorch-cuda=11.6 -c pytorch -c nvidia
+pip install -r requirements.txt
 ```
 
 Example: training the model for 20 epochs
